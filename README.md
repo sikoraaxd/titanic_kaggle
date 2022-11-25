@@ -1,1 +1,1 @@
-# titanic_kaggle
+# Titanic Kaggle Competition
